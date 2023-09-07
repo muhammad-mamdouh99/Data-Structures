@@ -105,6 +105,14 @@ public:
         arr[size - 1] = first_element;
     }
 
+    void right_rotate(int times) {
+        // Every 'size' rotations, just return the array to its original position
+        // First, get rid of all of these multiple of size rotations
+        times %= size;
+        while (times--)
+            right_rotate();
+    }
+
     int pop(int idx) {
         assert(0 <= idx && idx < size);
         int val = arr[idx];
