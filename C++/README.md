@@ -26,6 +26,6 @@
 - in practice we don't write something like that.
 
 > [!NOTE]
-> I wrote all the code included here on my own after understanding the content.
-> This course is provided by dr / Mostafa Saad on udemy.
+> - I wrote all the code included here on my own after understanding the content.
+> - This course is provided by dr / Mostafa Saad on udemy.
 
