@@ -1,6 +1,4 @@
-# Data Structures implementations in C++
-
-### I am following The Mastering critical SKILLS in Data Structures using C++ Course by Dr / Mostafa Saad.
+## Data Structures implementations in C++.
 
 ### Course Sections:
 
@@ -27,8 +25,7 @@
 - Data Structure is a hard topic so I keep everything simple to maximize the outcome.
 - in practice we don't write something like that.
 
----
+> [!NOTE]
+> I wrote all the code included here on my own after understanding the content.
+> This course is provided by dr / Mostafa Saad on udemy.
 
-### [Preview The Course](https://www.udemy.com/course/dscpp-skills/)
-
-### [Preview The Certificate]()
