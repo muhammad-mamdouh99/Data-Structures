@@ -27,5 +27,5 @@
 
 > [!NOTE]
 > - I wrote all the code included here on my own after understanding the content.
-> - This course is provided by dr / Mostafa Saad on udemy.
+> - This course is provided by [dr / Mostafa Saad](https://www.udemy.com/user/mostafasaadibrahim/) on udemy.
 
